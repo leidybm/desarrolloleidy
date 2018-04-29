@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/04/2018, 07:21:59 PM
+    Author     : nivel2.desa
+*/
+
+ body {
+        background-image: url("../../img/fd.png");
+/*        background-color: #C2E0F9;*/
+        background-repeat: repeat;
+        background-position: center ;
+        background-attachment: fixed;
+    }
+    .navbar-default{
+    border-bottom-color: #b4cbff;
+    border-bottom-width: unset;
+    }
+#footer {
+        position: fixed;
+        top: auto;
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        height: 5%;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size:11px;
+        background-color:#2B8AD9;
+        color:#FFFFFF;
+        padding: 3px;
+        text-align: center;
+        overflow: hidden;
+    }
+    .well{
+        background-color: #87c8ff54;
+    }
+    #scroll_b{
+        overflow: auto;
+        max-height: 500px;
+    }
+    #scroll_b::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#scroll_b::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#scroll_b::-webkit-scrollbar-thumb
+{
+	background-color: #f0ad4e;
+	border: 2px solid #555555;
+}

@@ -1,7 +1,7 @@
 <?php
-$server = "172.16.7.75";
-$user = "Architect03";
-$pass = "@DM1N1STR4D0R2016";
+$server = "X.X.X.X";
+$user = "xxxxxxx";
+$pass = "xxxxxxxxxx";
 $bd = "modelo_bd_leidy";
 
 //Creamos la conexión

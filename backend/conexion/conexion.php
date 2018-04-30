@@ -1,6 +1,6 @@
 <?php
-$server = "172.16.7.75";
-$user = "Architect03";
+$server = "X.X.X.X";
+$user = "xxxxxx";
 $pass = "@DM1N1STR4D0R2016";
 $bd = "modelo_bd_leidy";
 
